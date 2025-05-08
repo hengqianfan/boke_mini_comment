@@ -19,7 +19,7 @@
     {
       "source": "/api/(.*)",
       "headers": [
-        { "key": "Access-Control-Allow-Origin", "value": "https://hengqianfan.github.io/vitepress-theme-fans-boke-mini-demo/" },
+        { "key": "Access-Control-Allow-Origin", "value": "https://hengqianfan.github.io" },
         { "key": "Access-Control-Allow-Methods", "value": "GET,POST,OPTIONS" },
         { "key": "Access-Control-Allow-Headers", "value": "Content-Type" }
       ]
